@@ -65,3 +65,6 @@ search = PineconeVectorStore.from_documents(
 )
 
 
+
+# 768229077902.dkr.ecr.us-east-1.amazonaws.com/medicalbot
+
