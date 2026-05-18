@@ -8,7 +8,7 @@ Clone the repository
 ```bash
 git https://github.com/sandeepsingh224/Medical-Chatbot-Gen-AI-Project
 ```
-### STEP 01- Create a conda environment after opening the repository
+### STEP 01- Create a conda environment after opening in the repository
 
 ```bash
 conda create -n medibot python=3.10 -y
